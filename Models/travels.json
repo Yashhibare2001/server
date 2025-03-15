@@ -1,8 +1,8 @@
 [
     {
-        "ID": 101,
+        "id": 101,
         "name": "Vintage Thrown",
-        "City": "pune",
+        "city": "pune",
         "Price": 1999,
         "Ratings": "* * * * *",
         "Date": "27-03-2024",
@@ -10,9 +10,9 @@
     },
 
     {
-        "ID": 102,
+        "id": 102,
         "name": "casino Royal",
-        "City": "Mumbai",
+        "city": "Mumbai",
         "Price": 1989,
         "Ratings": "* * *  *",
         "Date": "15-04-2024",
@@ -20,9 +20,9 @@
     },
 
     {
-        "ID": 103,
+        "id": 103,
         "name": "Rolls",
-        "City": "Nagpur",
+        "city": "Nagpur",
         "Price": 1999,
         "Ratings": "* * * * *",
         "Date": "21-10-2024",
@@ -30,9 +30,9 @@
     },
 
     {
-        "ID": 104,
+        "id": 104,
         "name": "DNR",
-        "City": "Goa",
+        "city": "Goa",
         "Price": 1999,
         "time": "12:00 PM",
         "Ratings": "* * * * *",
@@ -41,20 +41,20 @@
     },
 
     {
-        "ID": 105,
+        "id": 105,
         "name": "Mustang",
-        "City": "Hydrabad",
+        "city": "Hydrabad",
         "Price": 1999,
         "time": "7:30 AM",
         "Ratings": "* * * * *",
         "Date": "30-01-2024",
-        "img":"https://th.bing.com/th?id=OIP.7IrJMGZmyQZaalL-laIdNwHaE5&w=307&h=203&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        "img":"https://th.bing.com/th?id=OIP.7IrJMGZmyQZaalL-laidNwHaE5&w=307&h=203&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
     },
 
     {
-        "ID": 106,
+        "id": 106,
         "name": "Fastrack",
-        "City": "Delhi",
+        "city": "Delhi",
         "Price": 1999,
         "time": "3:30 PM",
         "Ratings": "* * * * *",
@@ -63,9 +63,9 @@
     },
 
     {
-        "ID": 107,
+        "id": 107,
         "name": "Vintage Thrown",
-        "City": "Benguluru",
+        "city": "Benguluru",
         "Price": 1999,
         "time": "11:00 PM",
         "Ratings": "* * * * *",
@@ -74,9 +74,9 @@
     },
 
     {
-        "ID": 108,
+        "id": 108,
         "name": "Vintage Fairy",
-        "City": "J&K",
+        "city": "J&K",
         "Price": 1999,
         "time": "4:30 AM",
         "Ratings": "* * * * *",
@@ -85,9 +85,9 @@
     },
 
     {
-        "ID": 109,
+        "id": 109,
         "name": "Maharaja",
-        "City": "kolkata",
+        "city": "kolkata",
         "Price": 1999,
         "time": "6:00 PM",
         "Ratings": "* * * * *",
