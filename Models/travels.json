@@ -2,97 +2,241 @@
     {
         "id": 101,
         "name": "Vintage Thrown",
-        "city": "pune",
+        "city": "Pune",
         "Price": 1999,
-        "Ratings": "* * * * *",
+        "Ratings": "★★★★★",
         "Date": "27-03-2024",
-        "img":"https://cdn1.tripoto.com/media/filter/nl/img/2311061/Image/1676959928_reasons_to_settle_down_in_pune_1400x700.png"
+        "type": "AC",
+        "img": "https://cdn1.tripoto.com/media/filter/nl/img/2311061/Image/1676959928_reasons_to_settle_down_in_pune_1400x700.png"
     },
-
     {
         "id": 102,
-        "name": "casino Royal",
+        "name": "Casino Royal",
         "city": "Mumbai",
         "Price": 1989,
-        "Ratings": "* * *  *",
+        "Ratings": "★★★★",
         "Date": "15-04-2024",
-        "img":"http://ts4.mm.bing.net/th?id=OIP.aCnB6l24g1iloRfEY4B80QHaE7&pid=15.1"
+        "type": "Government",
+        "img": "http://ts4.mm.bing.net/th?id=OIP.aCnB6l24g1iloRfEY4B80QHaE7&pid=15.1"
     },
-
     {
         "id": 103,
-        "name": "Rolls",
-        "city": "Nagpur",
-        "Price": 1999,
-        "Ratings": "* * * * *",
-        "Date": "21-10-2024",
-        "img":"https://th.bing.com/th?id=OIP.bAPPjwVMWcRA4lYkGxgONgHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        "name": "Swift Riders",
+        "city": "Delhi",
+        "Price": 2099,
+        "Ratings": "★★★★★",
+        "Date": "10-05-2024",
+        "type": "Non-AC",
+        "img": "https://th.bing.com/th?id=OIP.7jKStZ2mxSeJy-i_c93cVAHaFG&w=300"
     },
-
     {
         "id": 104,
-        "name": "DNR",
-        "city": "Goa",
-        "Price": 1999,
-        "time": "12:00 PM",
-        "Ratings": "* * * * *",
-        "Date": "27-01-2024",
-        "img":"https://th.bing.com/th?id=OIP.HwAYgY0r93wSi8ishcXA3wHaE0&w=309&h=201&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        "name": "City Express",
+        "city": "Bangalore",
+        "Price": 1899,
+        "Ratings": "★★★★☆",
+        "Date": "05-06-2024",
+        "type": "AC",
+        "img": "https://th.bing.com/th?id=OIP.1tANSZrMu2w7Lf1vDk0nXAHaEn&w=316"
     },
-
     {
         "id": 105,
-        "name": "Mustang",
-        "city": "Hydrabad",
-        "Price": 1999,
-        "time": "7:30 AM",
-        "Ratings": "* * * * *",
-        "Date": "30-01-2024",
-        "img":"https://th.bing.com/th?id=OIP.7IrJMGZmyQZaalL-laidNwHaE5&w=307&h=203&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        "name": "Fast Track",
+        "city": "Hyderabad",
+        "Price": 1799,
+        "Ratings": "★★★★★",
+        "Date": "20-07-2024",
+        "type": "Non-AC",
+        "img": "https://th.bing.com/th?id=OIP.7IrJMGZmyQZaalL-laidNwHaE5&w=307"
     },
-
     {
         "id": 106,
-        "name": "Fastrack",
-        "city": "Delhi",
-        "Price": 1999,
-        "time": "3:30 PM",
-        "Ratings": "* * * * *",
-        "Date": "2-02-2024",
-        "img":"https://th.bing.com/th?id=OIP.7jKStZ2mxSeJy-i_c93cVAHaFG&w=300&h=207&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        "name": "Golden Wheels",
+        "city": "Chennai",
+        "Price": 1950,
+        "Ratings": "★★★★☆",
+        "Date": "10-08-2024",
+        "type": "Government",
+        "img": "https://th.bing.com/th?id=OIP.eB90vt_0TsDTQ-A4s2a2qQHaEh&w=319"
     },
-
     {
         "id": 107,
-        "name": "Vintage Thrown",
-        "city": "Benguluru",
-        "Price": 1999,
-        "time": "11:00 PM",
-        "Ratings": "* * * * *",
-        "Date": "5-01-2024",
-        "img":"https://th.bing.com/th?id=OIP.1tANSZrMu2w7Lf1vDk0nXAHaEn&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        "name": "Metro Bus",
+        "city": "Kolkata",
+        "Price": 2150,
+        "Ratings": "★★★★★",
+        "Date": "05-09-2024",
+        "type": "AC",
+        "img": "https://th.bing.com/th?id=OIP.HwAYgY0r93wSi8ishcXA3"
     },
-
     {
         "id": 108,
-        "name": "Vintage Fairy",
-        "city": "J&K",
-        "Price": 1999,
-        "time": "4:30 AM",
-        "Ratings": "* * * * *",
-        "Date": "28-07-2024",
-        "img":"https://th.bing.com/th?id=OIP.UdIhiqRDAJnc1BIhzeQoEwHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        "name": "Royal Travels",
+        "city": "Ahmedabad",
+        "Price": 1850,
+        "Ratings": "★★★★☆",
+        "Date": "12-10-2024",
+        "type": "Non-AC",
+        "img": "https://th.bing.com/th?id=OIP.1tANSZrMu2w7Lf1vDk0nXAHaEn&w=316"
     },
-
     {
         "id": 109,
-        "name": "Maharaja",
-        "city": "kolkata",
+        "name": "Sunrise Tours",
+        "city": "Jaipur",
         "Price": 1999,
-        "time": "6:00 PM",
-        "Ratings": "* * * * *",
-        "Date": "10-01-2024",
-        "img":"https://th.bing.com/th?id=OIP.eB90vt_0TsDTQ-A4s2a2qQHaEh&w=319&h=195&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+        "Ratings": "★★★★★",
+        "Date": "15-10-2024",
+        "type": "Government",
+        "img": "https://th.bing.com/th?id=OIP.7jKStZ2mxSeJy-i_c93cVAHaFG&w=300"
+    },
+    {
+        "id": 110,
+        "name": "Silver Line Express",
+        "city": "Surat",
+        "Price": 2050,
+        "Ratings": "★★★★☆",
+        "Date": "20-10-2024",
+        "type": "AC",
+        "img": "https://th.bing.com/th?id=OIP.HwAYgY0r93wSi8ishcXA3wHaE0&w=309"
+    },
+    {
+        "id": 111,
+        "name": "Skyline Travels",
+        "city": "Lucknow",
+        "Price": 1750,
+        "Ratings": "★★★★★",
+        "Date": "25-10-2024",
+        "type": "Non-AC",
+        "img": "https://th.bing.com/th?id=OIP.UdIhiqRDAJnc1BIhzeQoEwHaFj&w=288"
+    },
+    {
+        "id": 112,
+        "name": "Golden Star",
+        "city": "Chandigarh",
+        "Price": 2200,
+        "Ratings": "★★★★☆",
+        "Date": "30-10-2024",
+        "type": "Government",
+        "img": "https://th.bing.com/th?id=OIP.7IrJMGZmyQZaalL-laidNwHaE5&w=307"
+    },
+    {
+        "id": 113,
+        "name": "Dreamline Tours",
+        "city": "Bhopal",
+        "Price": 1950,
+        "Ratings": "★★★★★",
+        "Date": "05-11-2024",
+        "type": "AC",
+        "img": "https://th.bing.com/th?id=OIP.7jKStZ2mxSeJy-i_c93cVAHaFG&w=300"
+    },
+    {
+        "id": 114,
+        "name": "Express Travels",
+        "city": "Indore",
+        "Price": 1899,
+        "Ratings": "★★★★☆",
+        "Date": "10-11-2024",
+        "type": "Non-AC",
+        "img": "https://th.bing.com/th?id=OIP.eB90vt_0TsDTQ-A4s2a2qQHaEh&w=319"
+    },
+    {
+        "id": 115,
+        "name": "Superfast Travels",
+        "city": "Nagpur",
+        "Price": 2100,
+        "Ratings": "★★★★★",
+        "Date": "15-11-2024",
+        "type": "Government",
+        "img": "https://th.bing.com/th?id=OIP.7IrJMGZmyQZaalL-laidNwHaE5&w=307"
+    },
+    {
+        "id": 116,
+        "name": "Luxury Lines",
+        "city": "Patna",
+        "Price": 2300,
+        "Ratings": "★★★★☆",
+        "Date": "20-11-2024",
+        "type": "AC",
+        "img": "https://th.bing.com/th?id=OIP.1tANSZrMu2w7Lf1vDk0nXAHaEn&w=316"
+    },
+    {
+        "id": 117,
+        "name": "Fast Wheels",
+        "city": "Goa",
+        "Price": 1700,
+        "Ratings": "★★★★★",
+        "Date": "25-11-2024",
+        "type": "Non-AC",
+        "img": "https://th.bing.com/th?id=OIP.UdIhiqRDAJnc1BIhzeQoEwHaFj&w=288"
+    },
+    {
+        "id": 118,
+        "name": "Himalayan Express",
+        "city": "Shimla",
+        "Price": 2500,
+        "Ratings": "★★★★☆",
+        "Date": "01-12-2024",
+        "type": "Government",
+        "img": "https://th.bing.com/th?id=OIP.eB90vt_0TsDTQ-A4s2a2qQHaEh&w=319"
+    },
+    {
+        "id": 119,
+        "name": "Desert Travels",
+        "city": "Jaisalmer",
+        "Price": 1999,
+        "Ratings": "★★★★★",
+        "Date": "05-12-2024",
+        "type": "AC",
+        "img": "https://th.bing.com/th?id=OIP.7jKStZ2mxSeJy-i_c93cVAHaFG&w=300"
+    },
+    {
+        "id": 120,
+        "name": "City Connect",
+        "city": "Mysore",
+        "Price": 1899,
+        "Ratings": "★★★★☆",
+        "Date": "10-12-2024",
+        "type": "Non-AC",
+        "img": "https://th.bing.com/th?id=OIP.1tANSZrMu2w7Lf1vDk0nXAHaEn&w=316"
+    },
+    {
+        "id": 121,
+        "name": "Royal Class",
+        "city": "Dehradun",
+        "Price": 2150,
+        "Ratings": "★★★★★",
+        "Date": "15-12-2024",
+        "type": "Government",
+        "img": "https://th.bing.com/th?id=OIP.7IrJMGZmyQZaalL-laidNwHaE5&w=307"
+    },
+    {
+        "id": 122,
+        "name": "Eco Travels",
+        "city": "Ranchi",
+        "Price": 1750,
+        "Ratings": "★★★★☆",
+        "Date": "20-12-2024",
+        "type": "AC",
+        "img": "https://th.bing.com/th?id=OIP.UdIhiqRDAJnc1BIhzeQoEwHaFj&w=288"
+    },
+    {
+        "id": 123,
+        "name": "Silver Jet",
+        "city": "Kanpur",
+        "Price": 2000,
+        "Ratings": "★★★★★",
+        "Date": "25-12-2024",
+        "type": "Non-AC",
+        "img": "https://th.bing.com/th?id=OIP.eB90vt_0TsDTQ-A4s2a2qQHaEh&w=319"
+    },
+    {
+        "id": 124,
+        "name": "Fast Express",
+        "city": "Agra",
+        "Price": 1900,
+        "Ratings": "★★★★☆",
+        "Date": "30-12-2024",
+        "type": "Government",
+        "img": "https://th.bing.com/th?id=OIP.7IrJMGZmyQZaalL-laidNwHaE5&w=307"
     }
 ]
-
