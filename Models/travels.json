@@ -7,7 +7,8 @@
         "Ratings": "★★★★★",
         "Date": "27-03-2024",
         "type": "AC",
-        "img": "https://cdn1.tripoto.com/media/filter/nl/img/2311061/Image/1676959928_reasons_to_settle_down_in_pune_1400x700.png"
+        "img": "https://cdn1.tripoto.com/media/filter/nl/img/2311061/Image/1676959928_reasons_to_settle_down_in_pune_1400x700.png",
+        "seats":20
     },
     {
         "id": 102,
@@ -17,7 +18,8 @@
         "Ratings": "★★★★",
         "Date": "15-04-2024",
         "type": "Government",
-        "img": "http://ts4.mm.bing.net/th?id=OIP.aCnB6l24g1iloRfEY4B80QHaE7&pid=15.1"
+        "img": "http://ts4.mm.bing.net/th?id=OIP.aCnB6l24g1iloRfEY4B80QHaE7&pid=15.1",
+        "seats":20
     },
     {
         "id": 103,
@@ -27,7 +29,8 @@
         "Ratings": "★★★★★",
         "Date": "10-05-2024",
         "type": "Non-AC",
-        "img": "https://th.bing.com/th?id=OIP.7jKStZ2mxSeJy-i_c93cVAHaFG&w=300"
+        "img": "https://th.bing.com/th?id=OIP.7jKStZ2mxSeJy-i_c93cVAHaFG&w=300",
+        "seats":20
     },
     {
         "id": 104,
@@ -37,7 +40,8 @@
         "Ratings": "★★★★☆",
         "Date": "05-06-2024",
         "type": "AC",
-        "img": "https://th.bing.com/th?id=OIP.1tANSZrMu2w7Lf1vDk0nXAHaEn&w=316"
+        "img": "https://th.bing.com/th?id=OIP.1tANSZrMu2w7Lf1vDk0nXAHaEn&w=316",
+        "seats":20
     },
     {
         "id": 105,
@@ -47,7 +51,8 @@
         "Ratings": "★★★★★",
         "Date": "20-07-2024",
         "type": "Non-AC",
-        "img": "https://th.bing.com/th?id=OIP.7IrJMGZmyQZaalL-laidNwHaE5&w=307"
+        "img": "https://th.bing.com/th?id=OIP.7IrJMGZmyQZaalL-laidNwHaE5&w=307",
+        "seats":20
     },
     {
         "id": 106,
@@ -57,7 +62,8 @@
         "Ratings": "★★★★☆",
         "Date": "10-08-2024",
         "type": "Government",
-        "img": "https://th.bing.com/th?id=OIP.eB90vt_0TsDTQ-A4s2a2qQHaEh&w=319"
+        "img": "https://th.bing.com/th?id=OIP.eB90vt_0TsDTQ-A4s2a2qQHaEh&w=319",
+        "seats":20
     },
     {
         "id": 107,
@@ -67,7 +73,8 @@
         "Ratings": "★★★★★",
         "Date": "05-09-2024",
         "type": "AC",
-        "img": "https://th.bing.com/th?id=OIP.HwAYgY0r93wSi8ishcXA3"
+        "img": "https://th.bing.com/th?id=OIP.HwAYgY0r93wSi8ishcXA3",
+        "seats":20
     },
     {
         "id": 108,
@@ -77,7 +84,8 @@
         "Ratings": "★★★★☆",
         "Date": "12-10-2024",
         "type": "Non-AC",
-        "img": "https://th.bing.com/th?id=OIP.1tANSZrMu2w7Lf1vDk0nXAHaEn&w=316"
+        "img": "https://th.bing.com/th?id=OIP.1tANSZrMu2w7Lf1vDk0nXAHaEn&w=316",
+        "seats":20
     },
     {
         "id": 109,
@@ -87,7 +95,8 @@
         "Ratings": "★★★★★",
         "Date": "15-10-2024",
         "type": "Government",
-        "img": "https://th.bing.com/th?id=OIP.7jKStZ2mxSeJy-i_c93cVAHaFG&w=300"
+        "img": "https://th.bing.com/th?id=OIP.7jKStZ2mxSeJy-i_c93cVAHaFG&w=300",
+        "seats":20
     },
     {
         "id": 110,
@@ -97,7 +106,8 @@
         "Ratings": "★★★★☆",
         "Date": "20-10-2024",
         "type": "AC",
-        "img": "https://th.bing.com/th?id=OIP.HwAYgY0r93wSi8ishcXA3wHaE0&w=309"
+        "img": "https://th.bing.com/th?id=OIP.HwAYgY0r93wSi8ishcXA3wHaE0&w=309",
+        "seats":20
     },
     {
         "id": 111,
@@ -107,7 +117,8 @@
         "Ratings": "★★★★★",
         "Date": "25-10-2024",
         "type": "Non-AC",
-        "img": "https://th.bing.com/th?id=OIP.UdIhiqRDAJnc1BIhzeQoEwHaFj&w=288"
+        "img": "https://th.bing.com/th?id=OIP.UdIhiqRDAJnc1BIhzeQoEwHaFj&w=288",
+        "seats":20
     },
     {
         "id": 112,
@@ -117,7 +128,8 @@
         "Ratings": "★★★★☆",
         "Date": "30-10-2024",
         "type": "Government",
-        "img": "https://th.bing.com/th?id=OIP.7IrJMGZmyQZaalL-laidNwHaE5&w=307"
+        "img": "https://th.bing.com/th?id=OIP.7IrJMGZmyQZaalL-laidNwHaE5&w=307",
+        "seats":20
     },
     {
         "id": 113,
@@ -127,7 +139,8 @@
         "Ratings": "★★★★★",
         "Date": "05-11-2024",
         "type": "AC",
-        "img": "https://th.bing.com/th?id=OIP.7jKStZ2mxSeJy-i_c93cVAHaFG&w=300"
+        "img": "https://th.bing.com/th?id=OIP.7jKStZ2mxSeJy-i_c93cVAHaFG&w=300",
+        "seats":20
     },
     {
         "id": 114,
@@ -137,7 +150,8 @@
         "Ratings": "★★★★☆",
         "Date": "10-11-2024",
         "type": "Non-AC",
-        "img": "https://th.bing.com/th?id=OIP.eB90vt_0TsDTQ-A4s2a2qQHaEh&w=319"
+        "img": "https://th.bing.com/th?id=OIP.eB90vt_0TsDTQ-A4s2a2qQHaEh&w=319",
+        "seats":20
     },
     {
         "id": 115,
@@ -147,7 +161,8 @@
         "Ratings": "★★★★★",
         "Date": "15-11-2024",
         "type": "Government",
-        "img": "https://th.bing.com/th?id=OIP.7IrJMGZmyQZaalL-laidNwHaE5&w=307"
+        "img": "https://th.bing.com/th?id=OIP.7IrJMGZmyQZaalL-laidNwHaE5&w=307",
+        "seats":20
     },
     {
         "id": 116,
@@ -157,7 +172,8 @@
         "Ratings": "★★★★☆",
         "Date": "20-11-2024",
         "type": "AC",
-        "img": "https://th.bing.com/th?id=OIP.1tANSZrMu2w7Lf1vDk0nXAHaEn&w=316"
+        "img": "https://th.bing.com/th?id=OIP.1tANSZrMu2w7Lf1vDk0nXAHaEn&w=316",
+        "seats":20
     },
     {
         "id": 117,
@@ -167,7 +183,8 @@
         "Ratings": "★★★★★",
         "Date": "25-11-2024",
         "type": "Non-AC",
-        "img": "https://th.bing.com/th?id=OIP.UdIhiqRDAJnc1BIhzeQoEwHaFj&w=288"
+        "img": "https://th.bing.com/th?id=OIP.UdIhiqRDAJnc1BIhzeQoEwHaFj&w=288",
+        "seats":20
     },
     {
         "id": 118,
@@ -177,7 +194,8 @@
         "Ratings": "★★★★☆",
         "Date": "01-12-2024",
         "type": "Government",
-        "img": "https://th.bing.com/th?id=OIP.eB90vt_0TsDTQ-A4s2a2qQHaEh&w=319"
+        "img": "https://th.bing.com/th/id/OIP.ZalS2xBhgbSwK-4W2xRungHaE8?rs=1&pid=ImgDetMain",
+        "seats":20
     },
     {
         "id": 119,
@@ -187,7 +205,8 @@
         "Ratings": "★★★★★",
         "Date": "05-12-2024",
         "type": "AC",
-        "img": "https://th.bing.com/th?id=OIP.7jKStZ2mxSeJy-i_c93cVAHaFG&w=300"
+        "img": "https://deih43ym53wif.cloudfront.net/jaisalmer-india-shutterstock_171674846_3e46127e4f.jpeg",
+        "seats":20
     },
     {
         "id": 120,
@@ -197,7 +216,8 @@
         "Ratings": "★★★★☆",
         "Date": "10-12-2024",
         "type": "Non-AC",
-        "img": "https://th.bing.com/th?id=OIP.1tANSZrMu2w7Lf1vDk0nXAHaEn&w=316"
+        "img": "https://wallpapercave.com/wp/wp8551388.jpg",
+        "seats":20
     },
     {
         "id": 121,
@@ -207,7 +227,8 @@
         "Ratings": "★★★★★",
         "Date": "15-12-2024",
         "type": "Government",
-        "img": "https://th.bing.com/th?id=OIP.7IrJMGZmyQZaalL-laidNwHaE5&w=307"
+        "img": "https://1.bp.blogspot.com/--DLj4ilsY_0/X8ShGBpeuDI/AAAAAAAAMsY/6D62_oLWbEQeqC4D_mVodG9V10UMW_KmgCLcBGAsYHQ/s1200/DinPnB1WsAALo6P.jpg",
+        "seats":20
     },
     {
         "id": 122,
@@ -217,7 +238,8 @@
         "Ratings": "★★★★☆",
         "Date": "20-12-2024",
         "type": "AC",
-        "img": "https://th.bing.com/th?id=OIP.UdIhiqRDAJnc1BIhzeQoEwHaFj&w=288"
+        "img": "https://www.fabhotels.com/blog/wp-content/uploads/2019/03/Tagore-Hill.jpg",
+        "seats":20
     },
     {
         "id": 123,
@@ -227,7 +249,8 @@
         "Ratings": "★★★★★",
         "Date": "25-12-2024",
         "type": "Non-AC",
-        "img": "https://th.bing.com/th?id=OIP.eB90vt_0TsDTQ-A4s2a2qQHaEh&w=319"
+        "img": "https://th.bing.com/th/id/OIP.0A984r4SzNG7OXBp0VFczQHaEK?rs=1&pid=ImgDetMain",
+        "seats":20
     },
     {
         "id": 124,
@@ -237,6 +260,7 @@
         "Ratings": "★★★★☆",
         "Date": "30-12-2024",
         "type": "Government",
-        "img": "https://th.bing.com/th?id=OIP.7IrJMGZmyQZaalL-laidNwHaE5&w=307"
+        "img": "https://th.bing.com/th/id/OIP.jZdEE0wsnvu7VJHy7DF8fwHaEV?rs=1&pid=ImgDetMain",
+        "seats":20
     }
 ]
