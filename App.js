@@ -1,5 +1,7 @@
 
 const express = require('express');
+const mongoose = require("mongoose");
+
 
 const routes = require('./Routes/index');
 
@@ -16,9 +18,24 @@ app.use((req, res, next) => {
     next();
 });
 
+// //npm i cors
+// app.use('/', routes);
+
+// app.listen(port, () => {
+//     console.log(`Server is running on ${port}`);
+// });
+
+mongoose
+  .connect("mongodb://127.0.0.1:27017", {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  })
+  .then(() => console.log("✅ MongoDB Connected Successfully"))
+  .catch((err) => console.error("❌ MongoDB Connection Error:", err));
+
 //npm i cors
-app.use('/', routes);
+app.use("/", routes);
 
 app.listen(port, () => {
-    console.log(`Server is running on ${port}`);
+  console.log(`Server is running on ${port}`);
 });
