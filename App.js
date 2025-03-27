@@ -4,10 +4,13 @@ const mongoose = require("mongoose");
 
 
 const routes = require('./Routes/index');
-
+require('dotenv').config();
 const app = express();
 
 const port = 8040;
+
+
+// const mongoURI = process.env.uri;
 
 
 // CORS issue will be solved // manual cors issue fixing
@@ -25,13 +28,21 @@ app.use((req, res, next) => {
 //     console.log(`Server is running on ${port}`);
 // });
 
-mongoose
-  .connect("mongodb://127.0.0.1:27017", {
+// mongoose
+  // .connect( 
+  //   process.env.uri, {
+  //   useNewUrlParser: true,
+  //   useUnifiedTopology: true,
+  // })
+  // .then(() => console.log("✅ MongoDB Connected Successfully"))
+  // .catch((err) => console.error("❌ MongoDB Connection Error:", err));
+
+  mongoose.connect(process.env.MONGO_URI, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
-  })
-  .then(() => console.log("✅ MongoDB Connected Successfully"))
-  .catch((err) => console.error("❌ MongoDB Connection Error:", err));
+})
+.then(() => console.log("✅ MongoDB Connected Successfully"))
+.catch((err) => console.error("❌ MongoDB Connection Error:", err));
 
 //npm i cors
 app.use("/", routes);
