@@ -1,5 +1,5 @@
 const travelsList = require("../Models/travel.js");
-const travels = require("../Models/travel.js");
+
 
 exports.getAllTravels = (req, res) => {
     res.status(200).json(travelsList);
