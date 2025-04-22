@@ -21,21 +21,7 @@ app.use((req, res, next) => {
     next();
 });
 
-// //npm i cors
-// app.use('/', routes);
 
-// app.listen(port, () => {
-//     console.log(`Server is running on ${port}`);
-// });
-
-// mongoose
-  // .connect( 
-  //   process.env.uri, {
-  //   useNewUrlParser: true,
-  //   useUnifiedTopology: true,
-  // })
-  // .then(() => console.log("✅ MongoDB Connected Successfully"))
-  // .catch((err) => console.error("❌ MongoDB Connection Error:", err));
 
   mongoose.connect(process.env.MONGO_URI, {
     useNewUrlParser: true,
