@@ -1,4 +1,4 @@
-const travelsList = require("../Models/travel");
+const travelsList = require("../Models/travels.json");
 
 exports.getAllTravels = (req, res) => {
     res.status(200).json(travelsList);
