@@ -1,4 +1,5 @@
-const travelsList = require("../Models/travel.js");
+const travelsList = require("../Models/travels.json");
+
 
 
 exports.getAllTravels = (req, res) => {
