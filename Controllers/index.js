@@ -8,10 +8,10 @@ exports.getAllTravels = (req, res) => {
 
 exports.getTravelsById = (req, res) => {
     const travelsId = req.params.id;
-    const travels = travelsList.find(value =>  value.id == travelsId);
+    const travel = travelsList.find(value =>  value.id == travelsId);
 
-    if (travels) {
-        res.status(200).json({ travels });
+    if (travel) {
+        res.status(200).json({ travel });
     }
     else {
         res.status(404).json({
