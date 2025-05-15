@@ -11,7 +11,7 @@ exports.getTravelsById = (req, res) => {
     const travels = travelsList.find(value =>  value.id == travelsId);
 
     if (travels) {
-        res.status(200).json({ travel });
+        res.status(200).json({ travels });
     }
     else {
         res.status(404).json({
