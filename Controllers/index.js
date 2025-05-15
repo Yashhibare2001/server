@@ -1,5 +1,5 @@
-// const travelsList = require("../Models/travels.json");
-const Travel = require("../Models/travel");
+const travelsList = require("../Models/travels.json");
+
 
 
 exports.getAllTravels = (req, res) => {
@@ -8,7 +8,7 @@ exports.getAllTravels = (req, res) => {
 
 exports.getTravelsById = (req, res) => {
     const travelsId = req.params.id;
-    const travel = travelsId.find(value =>  value.id == travelsId);
+    const travel = travelsList.find(value =>  value.id == travelsId);
 
     if (travel) {
         res.status(200).json({ travel });
